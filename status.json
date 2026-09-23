@@ -1,0 +1,114 @@
+{
+  "language": "ca",
+  "built": "2026-09-23",
+  "candidates": 46841,
+  "shipped": 34711,
+  "ships": "pending",
+  "decided": null,
+  "why": null,
+  "license": null,
+  "conforms": true,
+  "families": 14,
+  "checkable": 13,
+  "knee": 5,
+  "steps": [
+    {
+      "families": 1,
+      "added": "wikimedia",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 2,
+      "added": "internetarchive",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 3,
+      "added": "leipzig",
+      "kept": 28388,
+      "share": 0.60605,
+      "gained": 28388
+    },
+    {
+      "families": 4,
+      "added": "gutenberg",
+      "kept": 33061,
+      "share": 0.705813,
+      "gained": 4673
+    },
+    {
+      "families": 5,
+      "added": "vilaweb.cat",
+      "kept": 33705,
+      "share": 0.719562,
+      "gained": 644
+    },
+    {
+      "families": 6,
+      "added": "ara.cat",
+      "kept": 34073,
+      "share": 0.727418,
+      "gained": 368
+    },
+    {
+      "families": 7,
+      "added": "naciodigital.cat",
+      "kept": 34296,
+      "share": 0.732179,
+      "gained": 223
+    },
+    {
+      "families": 8,
+      "added": "tatoeba",
+      "kept": 34468,
+      "share": 0.735851,
+      "gained": 172
+    },
+    {
+      "families": 9,
+      "added": "elnacional.cat",
+      "kept": 34623,
+      "share": 0.73916,
+      "gained": 155
+    },
+    {
+      "families": 10,
+      "added": "eltemps.cat",
+      "kept": 34663,
+      "share": 0.740014,
+      "gained": 40
+    },
+    {
+      "families": 11,
+      "added": "visat.cat",
+      "kept": 34691,
+      "share": 0.740612,
+      "gained": 28
+    },
+    {
+      "families": 12,
+      "added": "social.cat",
+      "kept": 34710,
+      "share": 0.741017,
+      "gained": 19
+    },
+    {
+      "families": 13,
+      "added": "3cat.cat",
+      "kept": 34711,
+      "share": 0.741039,
+      "gained": 1
+    },
+    {
+      "families": 14,
+      "added": "escriptors.cat",
+      "kept": 34711,
+      "share": 0.741039,
+      "gained": 0
+    }
+  ]
+}
