@@ -2,7 +2,7 @@
   "language": "ca",
   "built": "2026-09-23",
   "candidates": 46841,
-  "shipped": 34711,
+  "shipped": 36799,
   "ships": "pending",
   "decided": null,
   "why": null,
@@ -29,85 +29,85 @@
     {
       "families": 3,
       "added": "leipzig",
-      "kept": 28388,
-      "share": 0.60605,
-      "gained": 28388
+      "kept": 31500,
+      "share": 0.672488,
+      "gained": 31500
     },
     {
       "families": 4,
       "added": "gutenberg",
-      "kept": 33061,
-      "share": 0.705813,
-      "gained": 4673
+      "kept": 36147,
+      "share": 0.771696,
+      "gained": 4647
     },
     {
       "families": 5,
-      "added": "vilaweb.cat",
-      "kept": 33705,
-      "share": 0.719562,
-      "gained": 644
+      "added": "ara.cat",
+      "kept": 36296,
+      "share": 0.774877,
+      "gained": 149
     },
     {
       "families": 6,
-      "added": "ara.cat",
-      "kept": 34073,
-      "share": 0.727418,
-      "gained": 368
+      "added": "tatoeba",
+      "kept": 36432,
+      "share": 0.77778,
+      "gained": 136
     },
     {
       "families": 7,
-      "added": "naciodigital.cat",
-      "kept": 34296,
-      "share": 0.732179,
-      "gained": 223
+      "added": "vilaweb.cat",
+      "kept": 36558,
+      "share": 0.78047,
+      "gained": 126
     },
     {
       "families": 8,
-      "added": "tatoeba",
-      "kept": 34468,
-      "share": 0.735851,
-      "gained": 172
+      "added": "elnacional.cat",
+      "kept": 36662,
+      "share": 0.78269,
+      "gained": 104
     },
     {
       "families": 9,
-      "added": "elnacional.cat",
-      "kept": 34623,
-      "share": 0.73916,
-      "gained": 155
+      "added": "naciodigital.cat",
+      "kept": 36751,
+      "share": 0.78459,
+      "gained": 89
     },
     {
       "families": 10,
       "added": "eltemps.cat",
-      "kept": 34663,
-      "share": 0.740014,
-      "gained": 40
+      "kept": 36773,
+      "share": 0.78506,
+      "gained": 22
     },
     {
       "families": 11,
       "added": "visat.cat",
-      "kept": 34691,
-      "share": 0.740612,
-      "gained": 28
+      "kept": 36786,
+      "share": 0.785338,
+      "gained": 13
     },
     {
       "families": 12,
       "added": "social.cat",
-      "kept": 34710,
-      "share": 0.741017,
-      "gained": 19
+      "kept": 36798,
+      "share": 0.785594,
+      "gained": 12
     },
     {
       "families": 13,
       "added": "3cat.cat",
-      "kept": 34711,
-      "share": 0.741039,
+      "kept": 36799,
+      "share": 0.785615,
       "gained": 1
     },
     {
       "families": 14,
       "added": "escriptors.cat",
-      "kept": 34711,
-      "share": 0.741039,
+      "kept": 36799,
+      "share": 0.785615,
       "gained": 0
     }
   ]

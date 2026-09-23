@@ -13,7 +13,7 @@ collection rather than reuse its record only has to put the file back where the 
 | collection | tokens | what it is | where it came from |
 | --- | ---: | --- | --- |
 | `wiki:ca` | 277,999,080 |  | — |
-| `ia` | 13,714,102 | Internet Archive Catalan books — literature, and the register a newspaper never reaches | [archive-ca](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Catalan%22+OR+language%3A%22cat%22%29) |
+| `ia` | 43,871,779 | Internet Archive Catalan books — literature, and the register a newspaper never reaches | [archive-ca](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Catalan%22+OR+language%3A%22cat%22%29) |
 | `lz:cat_newscrawl_2016_1M` | 2,756,088 |  | — |
 | `gut` | 1,917,357 | Project Gutenberg Catalan | [gutenberg-ca](https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv) |
 | `wikisource:ca` | 1,652,521 |  | — |
@@ -22,7 +22,7 @@ collection rather than reuse its record only has to put the file back where the 
 | `web:naciodigital.cat` | 189,321 |  | fetched from `naciodigital.cat`, recorded in `searched.tsv` |
 | `web:ara.cat` | 172,784 |  | fetched from `ara.cat`, recorded in `searched.tsv` |
 | `web:elnacional.cat` | 105,300 |  | fetched from `elnacional.cat`, recorded in `searched.tsv` |
-| `tat` | 56,469 | Tatoeba Catalan — contemporary and conversational | [cat_sentences.tsv](https://downloads.tatoeba.org/exports/per_language/cat/cat_sentences.tsv.bz2) |
+| `tat` | 56,469 |  | — |
 | `web:eltemps.cat` | 27,587 |  | fetched from `eltemps.cat`, recorded in `searched.tsv` |
 | `web:social.cat` | 26,911 |  | fetched from `social.cat`, recorded in `searched.tsv` |
 | `web:visat.cat` | 22,326 |  | fetched from `visat.cat`, recorded in `searched.tsv` |

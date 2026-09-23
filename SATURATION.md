@@ -8,7 +8,7 @@ the curve a careful builder would get, not the order this repository happens to 
 The first two families keep nothing, which is not padding — it is the shape of a rule that needs
 three independent sources.
 
-Candidates: 46,841. Shipped: 34,711.
+Candidates: 46,841. Shipped: 36,799.
 
 Of 14 families, **13 can be checked by fetching** —
 a stable identifier or a page we fetched ourselves. The other 1 are crawls
@@ -19,17 +19,17 @@ it is their published corpus, not the web.
 | --- | --- | --- | --- | --- |
 | 1 | `wikimedia` | 0 | 0.0% | — |
 | 2 | `internetarchive` | 0 | 0.0% | — |
-| 3 | `leipzig` | 28,388 | 60.6% | +28,388 |
-| 4 | `gutenberg` | 33,061 | 70.6% | +4,673 |
-| 5 | `vilaweb.cat` | 33,705 | 72.0% | +644 |
-| 6 | `ara.cat` | 34,073 | 72.7% | +368 |
-| 7 | `naciodigital.cat` | 34,296 | 73.2% | +223 |
-| 8 | `tatoeba` | 34,468 | 73.6% | +172 |
-| 9 | `elnacional.cat` | 34,623 | 73.9% | +155 |
-| 10 | `eltemps.cat` | 34,663 | 74.0% | +40 |
-| 11 | `visat.cat` | 34,691 | 74.1% | +28 |
-| 12 | `social.cat` | 34,710 | 74.1% | +19 |
-| 13 | `3cat.cat` | 34,711 | 74.1% | +1 |
-| 14 | `escriptors.cat` | 34,711 | 74.1% | — |
+| 3 | `leipzig` | 31,500 | 67.2% | +31,500 |
+| 4 | `gutenberg` | 36,147 | 77.2% | +4,647 |
+| 5 | `ara.cat` | 36,296 | 77.5% | +149 |
+| 6 | `tatoeba` | 36,432 | 77.8% | +136 |
+| 7 | `vilaweb.cat` | 36,558 | 78.0% | +126 |
+| 8 | `elnacional.cat` | 36,662 | 78.3% | +104 |
+| 9 | `naciodigital.cat` | 36,751 | 78.5% | +89 |
+| 10 | `eltemps.cat` | 36,773 | 78.5% | +22 |
+| 11 | `visat.cat` | 36,786 | 78.5% | +13 |
+| 12 | `social.cat` | 36,798 | 78.6% | +12 |
+| 13 | `3cat.cat` | 36,799 | 78.6% | +1 |
+| 14 | `escriptors.cat` | 36,799 | 78.6% | — |
 
-**Diminishing returns from family 5** (`vilaweb.cat`, +644), where a family first added less than a twentieth of what the best one did.
+**Diminishing returns from family 5** (`ara.cat`, +149), where a family first added less than a twentieth of what the best one did.

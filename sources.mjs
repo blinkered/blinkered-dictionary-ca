@@ -98,7 +98,7 @@ const ALL = [
     // shelf was screened before it was read, by the share of a book's words that are Catalan
     // candidates and neither Spanish nor French ones; Gutenberg's Catalan scores 57% and up,
     // Spanish books under 12% and Spanish-Catalan dictionaries between the two. A book under
-    // 30% was moved to `rejected.tsv`: 50 of the first 165.
+    // 30% was moved to `rejected.tsv`: 203 of 808.
     what: 'Internet Archive Catalan books — literature, and the register a newspaper never reaches',
     needs: `${CACHE}archive-ca`,
     from: 'https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Catalan%22+OR+language%3A%22cat%22%29',
